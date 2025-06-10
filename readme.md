@@ -1,6 +1,6 @@
 # ard-sd-payload
 
-HID emulator that reads a txt file payload from an SD card module and sends out keystrokes as if it were from an HID device (keyboard).
+Keyboard emulator that reads a txt file payload from an SD card module and sends out keystrokes as if it were from an HID device (keyboard).
 
 # Hardware Requirements
 - Arduino Leonardo (ATmega32u4)
