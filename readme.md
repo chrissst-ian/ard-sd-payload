@@ -29,6 +29,8 @@ HID emulator that reads a txt file payload from an SD card module and sends out 
 | Reader GND        | GND         |
 
 # ICSP Headers pinout
+| 1    | 2    |
+|------|------|
 | MISO | VCC  |
 | SCK  | MOSI |
 | RST  | GND  |
